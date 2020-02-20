@@ -7,4 +7,5 @@
 
 ![image](/2D%20Platformer%20-%20Dino%20the%20dino1.png?raw=true)
 ![image](/2D%20Platformer%20-%20Dino%20the%20dino2.png?raw=true)
+![image](/2D%20Platformer%20-%20Dino%20the%20dino3.png?raw=true)
 
